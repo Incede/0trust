@@ -12,7 +12,7 @@ The matching happens on a price-time based priority.
 The code is completely open-source so everyone can verify the authenticity of it.
 
 
-# EOSDEX v1.1
+# v1.1
 
 v1.1 has the following features.
 
@@ -24,7 +24,7 @@ v1.1 has the following features.
 6. View buy & sell order book
 
 
-#Potential features
+# Potential features
 
 1. Historical Orders - Keep if funds are sufficient or delete
 2. Charge fees, send it to admin
